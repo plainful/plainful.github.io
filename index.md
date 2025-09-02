@@ -30,4 +30,3 @@ title: 欢迎来到我的博客
     
       pdf_to_markdown(pdf_path, markdown_path)
 
-![md文件](/main/output.md)
